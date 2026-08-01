@@ -103,6 +103,7 @@ We don't collect your data or track you. See the [plugin privacy notice](https:/
 
 = 2.8.8 =
 * Disabled links in all editor notes and error fields; fixes CVE-2026-15066
+* Identified one fix required for PHP 8.5
 * Bumped WordPress compatibility to 7.0.2
 
 = 2.8.7 =
